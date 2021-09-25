@@ -37,10 +37,6 @@ Por que as Startups utilizam framework ágil?
 
 Utilizam o MVP(mínimo produto viável) disponibilizando como o próprio nome diz o mínimo para o cliente utilizar e evoluir o projeto de acordo com os feedbacks
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/52b36116-fa36-4a5e-92ee-d4709a3cf3ba/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4bf38d74-875d-4bde-8ef4-458d6e8bf317/Untitled.png)
-
 # Parte 2: Papéis e Responsabilidades de cada um no time
 
 ## Papéis e Responsabilidades
@@ -65,12 +61,6 @@ Utilizam o MVP(mínimo produto viável) disponibilizando como o próprio nome di
 ### Time de Desenvolvimento
 
 - Possui habilidades suficientes para desenvolver, testar, criar e desenhar. Há uma necessidade de interdisciplinalidade, ou seja, mesmo que não exista uma pessoa específica para uma determinada área.
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d2607af0-e6e8-4d8e-bb2e-86a37cf63338/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3db75d58-49a6-44d0-959e-345ce4cbdae6/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc0150f3-aded-4a71-ab84-c33dfe12f492/Untitled.png)
 
 # Parte 3: Cerimônias do Scrum
 

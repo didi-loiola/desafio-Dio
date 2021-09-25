@@ -6,8 +6,6 @@ Metacognição - pensar como pensa.
 
 Abstração - reduzir o problemas em partes
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/59c6632b-455d-4211-b925-10b56ec2c8b3/Untitled.png)
-
 R: Para a resolução precisamos das notas, somando-as e daí dividimos pela quantidade e assim conseguiremos a média aritmética.
 
 É possível fazer uma abstração a partir do meu mapa mental? (retórico).
