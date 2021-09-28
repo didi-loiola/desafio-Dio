@@ -49,3 +49,37 @@ A tag < img>, com atributos src e alt
 < ol> ordem do itens é importante
 
 < li> é um item da lista
+
+## Introdução ao CSS
+
+- ID(precedido por um #) x Class(precedido por um ponto)
+
+## Conceitos básicos
+
+- Margin, border, padding, content
+
+## Estilizando Elementos
+
+- padding: eixox eixoy
+- padding: topo direito infeiror esquerda
+- background-color, background-image, background-position;
+- border: largura cor estilo. basta utilizar top, right, left, bottom;
+- border-radius
+
+## Estilizando textos
+
+- font-family;
+- font-size;
+- font-style;
+- font-weigth
+- text-transform: capitalize(deixa as primeiras letras de cada palavra maiúsculas)
+- text-decoration;
+
+## Estilizando Listas
+
+- list-styl-type
+- list-style-image
+
+## Dimensão e alinhamento
+
+- width, heigth, margin, text-align
